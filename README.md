@@ -58,7 +58,7 @@ section.content article.content h2 {
 
 ## Usage 
 
-["Full Website"](./assets/images/FullWebsite.png)
+!["Full Website"](./assets/images/FullWebsite.png)
 
 Repository link: https://github.com/angelascencio/Market-Agency-Site-Refactor
 
