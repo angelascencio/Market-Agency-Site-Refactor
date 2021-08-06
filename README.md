@@ -1,23 +1,23 @@
 # Market-Agency-Site-Refactor
 
 ## Description
-*Changed Title to Horiseon
+* Changed Title to Horiseon
 
-*Replaced div with header
+* Replaced div with header
 
-*Replaced div with figure
+* Replaced div with figure
 
-*Reokaced div with nav
+* Reokaced div with nav
 
-*Replaced div with section
+* Replaced div with section
 
-*Replaced div with article
+* Replaced div with article
 
-*Replaced div with aside
+* Replaced div with aside
 
-*Added id "search-engine-optimization"
+* Added id "search-engine-optimization"
 
-*Modified the css file to function with the new semantic elements:
+* Modified the css file to function with the new semantic elements:
 
 Added: 
 section.content  {
@@ -61,4 +61,6 @@ section.content article.content h2 {
 ["Full Website"](./assets/images/FullWebsite.png)
 
 Repository link: https://github.com/angelascencio/Market-Agency-Site-Refactor
+
+Deploy link: https://angelascencio.github.io/Market-Agency-Site-Refactor/#social-media-marketing
 
